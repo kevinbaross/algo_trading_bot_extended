@@ -3,7 +3,7 @@
 
 # algo_trading_bot_extended
 
-This is a python-jupyter notebook integrated development environment(IDE) based an algorithmic trading bot that learns and adapts to new data and evolving markets.The notebook works as per the standard phases of finacial analysis by extracting data from CSV, preparation of datasets by cleaning the data and finally analyzing the data through quantitative analysis and visualizations. We use Python and the skllearn libraries/modules for the various steps involved from data preparation to visualization over Jupyter Notebook while applying basics of Machine Learning Concepts to achive the following:
+This is a python-jupyter notebook integrated development environment(IDE) based an algorithmic trading bot that learns and adapts to new data and evolving markets.The notebook works as per the standard phases of financial analysis by extracting data from CSV, preparation of datasets by cleaning the data and finally analyzing the data through quantitative analysis and visualizations. We use Python and the skllearn libraries/modules for the various steps involved from data preparation to visualization over Jupyter Notebook while applying basics of Machine Learning Concepts to achive the following:
 
     - Use Datasets for Bitcoin, Ethereum, Fear and Greed Index
     - Implement an algorithmic trading strategy that uses machine learning to automate the trade decisions.
