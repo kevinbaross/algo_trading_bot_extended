@@ -24,6 +24,12 @@ This project leverages python 3.7 with the following packages:
 
 * [supervised_learning_models]( https://scikit-learn.org/stable/supervised_learning.html)
 
+* [yfinance]( https://pypi.org/project/yfinance/) yfinance offers a threaded and Pythonic way to download market data from Yahoo!R finance. This API provided crypto data for the project.  
+
+* [URLLib](https://docs.python.org/3/library/urllib.html) Package that collects several modules for working with URLs. This was used for opening and reading URL based APIs. 
+
+* [JSON](https://docs.python.org/3/library/json.html) JSON is a lightweight data interchange format inspired by JavaScript object literal syntax. This encocoder and decoder was used to help process API calls. 
+
 ---
 
 ## Installation Guide
