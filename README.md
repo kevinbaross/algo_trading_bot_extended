@@ -96,7 +96,7 @@ Note:
 ---
 
 ## Contributors
-Kevin BaRoss, Christopher Diamond, Rebeca Brown, Nima Harirchian, Hugo Kostelni, Siddharth Venkumahanti
+Kevin BaRoss, Christopher Diamond, Rebecca Brown, Nima Harirchian, Hugo Kostelni, Siddharth Venkumahanti
 
 ---
 
@@ -105,7 +105,7 @@ Kevin BaRoss, Christopher Diamond, Rebeca Brown, Nima Harirchian, Hugo Kostelni,
 
 ### MIT License
 
-Copyright (c) [2022] [Kevin BaRoss, Christopher Diamond, Rebeca Brown, Nima Harirchian, Hugo Kostelni, Siddharth Venkumahanti]
+Copyright (c) [2022] [Kevin BaRoss, Christopher Diamond, Rebecca Brown, Nima Harirchian, Hugo Kostelni, Siddharth Venkumahanti]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
