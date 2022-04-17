@@ -1,6 +1,6 @@
 #Attempt to put all functions in one .py file this is equal to 1_API_Data_Calls_Module
 
-def data_import_cleanup_function()
+def data_import_cleanup_function():
     #Bitcoin historical daily prices USD
     #Source: https://data.nasdaq.com/data/BCHAIN/MKPRU-bitcoin-market-price-usd
     #btc_price = quandl.get('BCHAIN/MKPRU')
@@ -54,10 +54,10 @@ def data_import_cleanup_function()
     #display(data)
 
     # Store Datafrome in memory
-    return %store combined_values
+    #return %store combined_values
 
 
-Def SMAs_Function(combined_values, short_window = 20, long_window = 100)
+def SMAs_Function(combined_values, short_window = 20, long_window = 100):
     ### Step 1: Import the dataset into a Pandas DataFrame.
     # Filter the date index and close columns
     signals_df = combined_values.loc[:, ["Close"] ["value"]]
@@ -173,7 +173,7 @@ Def SMAs_Function(combined_values, short_window = 20, long_window = 100)
 # need to X_train_scaled, y_train
 
 
-def classifier_function(classifier_name, X_train_scaled, y_train, y_test)
+def classifier_function(classifier_name, X_train_scaled, y_train, y_test):
     # Initiate the model instance
     model_instance = classifier_name
     
