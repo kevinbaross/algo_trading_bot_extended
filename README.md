@@ -84,18 +84,10 @@ To use the Jupyter Notebook, clone the repository and do not forget to run the a
 git clone https://github.com/kevinbaross/algo_trading_bot_extended.git
 
 ```
-Upon launching the Jupyter notebook, you will notice an interface similar to the one below, click  on the 'machine_learning_trading_bot.ipynb' file and you will have the complete analysis. 
-![algo_trading_bot_extended](Images/Jupyter_Screenshot.jpg)
-
+Upon launching the Jupyter notebook, click  on the 'Main_Module.ipynb' file and you will have the complete analysis of the BTC and ETH testing algorithms. 
 
 Note:
 * You can shut down the notebook from the File menu when you are done using the report.
-
-
----
-
-## Evaluation / Conclusion Report
-
 
 
 
